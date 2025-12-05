@@ -2,8 +2,8 @@
 
 ## A Practical Guide to Implementing Distributed Coherence
 
-*From the article: "[Beyond Single Source of Truth: Designing for Distributed Coherence]([url](https://bit.ly/design-coherence))"*
-[https://bit.ly/design-coherence]([url](https://bit.ly/design-coherence))
+*From the article: "[Beyond Single Source of Truth: Designing for Distributed Coherence](https://bit.ly/design-coherence)"*
+
 
 ---
 
