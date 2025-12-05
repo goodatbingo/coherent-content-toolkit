@@ -296,10 +296,7 @@ For each major content category in your organization, classify and assign govern
 | Pricing page | Reference | Minimal | Finance | SME review |
 | Order confirmation | Operational | Template | Product | Template review |
 | Support chatbot | Conversational | Dynamic | Support + AI | Guardrail monitoring |
-| | | | | |
-| | | | | |
-| | | | | |
-| | | | | |
+|[add a category] |[add a type] |[add a level] | [add an owner]| [add a review model]|
 
 ---
 
