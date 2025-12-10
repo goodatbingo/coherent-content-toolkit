@@ -1,8 +1,8 @@
-# The Distributed Coherence Toolkit
+# Aligned by Design: The Distributed Coherence Toolkit
 
-## A Practical Guide to Implementing Distributed Coherence
+## A Practical Guide 
 
-*From the article: "[Beyond Single Source of Truth: Designing for Distributed Coherence](https://bit.ly/design-coherence)"*
+*From the article: "[Designing for Distributed Coherence](https://bit.ly/design-coherence)"*
 
 Distributed coherence is a content governance model where consistency emerges from shared principles, patterns, and vocabularies rather than rigid enforcement from a single canonical source.
 
