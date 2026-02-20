@@ -1,4 +1,4 @@
-# Aligned by Design: The Distributed Coherence Toolkit
+# The Coherent Content Toolkit
 
 ## A Practical Guide 
 
